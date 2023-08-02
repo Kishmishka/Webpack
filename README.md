@@ -1,5 +1,11 @@
 # WEBPACK
 ## Команды
+
+### Инициализация
+```shell
+npm init
+npm i
+```
 ### Запуск сервера для разработки
 ```shell
 npm run start
